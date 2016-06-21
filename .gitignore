@@ -1,5 +1,8 @@
 /venv/
 
+/myproject/settings/secret_settings.py
+
+
 # Compiled source #
 ###################
 *.com
