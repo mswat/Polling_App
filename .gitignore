@@ -1,6 +1,6 @@
 /venv/
 
-/myproject/settings/settings_secret.py
+/settings/settings_secret.py
 
 /idea/*
 
