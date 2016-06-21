@@ -1,6 +1,6 @@
 /venv/
 
-/myproject/settings/secret_settings.py
+/myproject/settings/settings_secret.py
 
 
 # Compiled source #
