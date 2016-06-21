@@ -2,6 +2,8 @@
 
 /myproject/settings/settings_secret.py
 
+/idea/*
+
 
 # Compiled source #
 ###################
