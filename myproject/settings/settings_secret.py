@@ -13,3 +13,6 @@ DATABASES = {
         'PORT': '5432',
     }
 }
+
+# SECURITY WARNING: keep the secret key used in production secret!
+SECRET_KEY = '%$*cg^l8)0k!0ul03@d&^_jk7rt_&5gab+&nc6-=p+zl&0$+$e'
