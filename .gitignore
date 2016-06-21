@@ -2,7 +2,7 @@
 
 /settings/settings_secret.py
 
-.idea/*
+.idea/
 
 
 # Compiled source #
